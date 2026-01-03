@@ -1,5 +1,7 @@
 ---
 title: "Currículum Vitae"
+execute:
+  enabled: false
 author: "Guillermo Barrios del Valle"
 date: today
 lang: es

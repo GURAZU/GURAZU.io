@@ -1,7 +1,8 @@
 project:
   type: website
   output-dir: docs
-
+execute:
+  enabled: false
 website:
   title: "[Guillermo Barrios](https://altamarmx.github.io/)"
   navbar:
